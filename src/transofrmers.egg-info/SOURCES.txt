@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/tr/__init__.py
+src/transofrmers.egg-info/PKG-INFO
+src/transofrmers.egg-info/SOURCES.txt
+src/transofrmers.egg-info/dependency_links.txt
+src/transofrmers.egg-info/requires.txt
+src/transofrmers.egg-info/top_level.txt
