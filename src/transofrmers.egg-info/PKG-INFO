@@ -4,5 +4,6 @@ Version: 0.1.0
 Summary: Add your description here
 Requires-Python: >=3.13
 Description-Content-Type: text/markdown
+Requires-Dist: jupyter>=1.1.1
 Requires-Dist: torch>=2.10.0
 Requires-Dist: transformers>=5.2.0
